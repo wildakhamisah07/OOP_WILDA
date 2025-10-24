@@ -9,6 +9,7 @@ class Mahasiswa
         $this->jurusan = $jurusan;
     }
 }
+
 $mhs = new Mahasiswa("Wilda Khamisah", "21101152630382", "Web Programming");
 echo $mhs->nama = "Wilda Khamisah";
 echo "<br>";

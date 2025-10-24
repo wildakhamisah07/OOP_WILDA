@@ -5,7 +5,7 @@ class Pegawai
 }
 class Manajer extends Pegawai
 {
-    public $departemen = "Depaertemen: IT (FullStuck Development)";
+    public $departemen = "Depaertemen: IT (FullStack Developer)";
     public function tampilkanData()
     {
         echo $this->nama . "<br>";
